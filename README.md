@@ -1,6 +1,6 @@
 # Tensorflow_learning
-                                        Tensorflow learning
-                                                                         Chen Dengshi Fudan University  
+                                               Tensorflow learning  
+                                                                                            Chen Dengshi Fudan University  
 
 #install tensorflow
 -------------------
