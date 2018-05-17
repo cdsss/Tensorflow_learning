@@ -15,7 +15,10 @@ references: http://wiki.jikexueyuan.com/project/tensorflow-zh/
 
 #First try about tensorflow
 -----------------------------
-filename in machine: D:\mycode-py\tsf_test
-python file: learning_code/code_1.py
+filename: learning_code/code_1.py
 content: y = 0.1*x + 0.3
 references: https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/2-2-example2
+
+filename: learning_code/code_2.py
+content: variable in tensorflow
+references: https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/2-4-variable/
