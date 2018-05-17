@@ -1,6 +1,7 @@
 # Tensorflow_learning
-                                               Tensorflow learning
-                                                                               Chen Dengshi Fudan University  
+                                        Tensorflow learning
+                                                                         Chen Dengshi Fudan University  
+
 #install tensorflow
 -------------------
 Tensorflow install: pip3 install --upgrade tensorflow  
