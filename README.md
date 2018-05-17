@@ -9,11 +9,13 @@ local package import(to pycharm): ppycharm project: file->settings...->Project:p
 
 #First learn about tensorflow
 -----------------------------
-filename: tsf_doc_1.txt
+filename: learning_document/doc_1.txt
+content: Chinese version TensorFlow official document learning.
 references: http://wiki.jikexueyuan.com/project/tensorflow-zh/
 
 #First try about tensorflow
 -----------------------------
 filename in machine: D:\mycode-py\tsf_test
-python file: test.py
+python file: learning_code/code_1.py
+content: y = 0.1*x + 0.3
 references: https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/2-2-example2
