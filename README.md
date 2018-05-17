@@ -1,5 +1,5 @@
 # Tensorflow learning
-                                                                                            Chen Dengshi Fudan University  
+Chen Dengshi Fudan University  
 
 #install tensorflow
 -------------------
