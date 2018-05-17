@@ -21,4 +21,8 @@ references: https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/2
   
 filename: learning_code/code_2.py  
 content: variable in tensorflow  
-references: https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/2-4-variable/  
+references: https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/2-4-variable/   
+
+filename: learning_code/code_3.py  
+content: build your first NN  
+references: https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/3-2-create-NN/
